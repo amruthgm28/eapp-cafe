@@ -1,0 +1,130 @@
+[
+    {
+        "id":1,
+        "name":"Denim Shirt",
+        "title":"fashion is quite a phenomenon. ",
+        "price":699,
+        "category":"shirt",
+        "image":"https://img.freepik.com/free-photo/portrait-handsome-smiling-stylish-young-man-model-wearing-jeans-clothes-sunglasses-fashion-man_158538-5023.jpg?ga=GA1.1.1341278248.1705148826&semt=sph"
+    },
+    {
+        "id":2,
+        "name":"Kids cloth",
+        "title":"fashion is quite a phenomenon.",
+        "price":999,
+        "category":"Kids",
+        "image":"https://img.freepik.com/premium-photo/fashion-boy-girl-stylish-clothes-colored-wall-autumn-bright-clothes-children-child-posing-colored-purple-pink-wall_86390-4442.jpg?ga=GA1.1.1341278248.1705148826&semt=sph"
+    },
+    {
+        "id":3,
+        "name":"T-shirt",
+        "title":"fashion is quite a phenomenon.",
+        "price":399,
+        "category":"Tshirt",
+        "image":"https://img.freepik.com/free-photo/pink-sweater-front_125540-746.jpg?ga=GA1.1.1341278248.1705148826&semt=sph"
+    },
+    {
+        "id":4,
+        "name":"Skirt",
+        "title":"fashion is quite a phenomenon.",
+        "price":1299,
+        "category":"Women",
+        "image":"https://img.freepik.com/free-photo/still-life-spring-wardrobe-switch_23-2150478964.jpg?ga=GA1.1.1341278248.1705148826&semt=sph"
+    },
+    {
+        "id":5,
+        "name":"T-shirts",
+        "title":"fashion is quite a phenomenon.",
+        "price": 999,
+        "category":"Tshirt",
+        "image":"https://img.freepik.com/free-photo/shirt-mockup-concept-with-plain-clothing_23-2149448750.jpg?ga=GA1.1.1341278248.1705148826&semt=sph"
+    },
+    {
+        "id":6,
+        "name":"T-shirt",
+        "title":"fashion is quite a phenomenon.",
+        "price":1499,
+        "category":"Women",
+        "image":"https://img.freepik.com/premium-photo/woman-gray-pants-blouse-bicolor-accessories-boots-white-background-brown-hair-studio-shot_481253-1215.jpg?ga=GA1.1.1341278248.1705148826&semt=sph"
+    },
+    {
+        "id":7,
+        "name":"Blazer",
+        "title":"fashion is quite a phenomenon.",
+        "price":1999,
+        "category":"Blazer",
+        "image":"https://img.freepik.com/premium-photo/coat-grey-background_123335-17.jpg?ga=GA1.1.1341278248.1705148826&semt=sph"
+    },
+    {
+        "id":8,
+        "name":"Jeans",
+        "title":"fashion is quite a phenomenon.",
+        "price":1000,
+        "category":"pant",
+        "image":"https://img.freepik.com/free-photo/portrait-female-legs-jeans_171337-11954.jpg?ga=GA1.1.1341278248.1705148826&semt=sph"
+    },
+    {
+        "id":9,
+        "name":"T-shirt",
+        "title":"fashion is quite a phenomenon.",
+        "price":799,
+        "category":"Tshirt",
+        "image":"https://img.freepik.com/free-photo/shirt-mockup-concept-with-plain-clothing_23-2149448748.jpg?ga=GA1.1.1341278248.1705148826&semt=sph"
+    },
+    {
+        "id":10,
+        "name":"Chudi",
+        "title":"fashion is quite a phenomenon.",
+        "price":1000,
+        "category":"women",
+        "image":"https://img.freepik.com/premium-photo/women-beautiful-fashion-dress_953724-4768.jpg?ga=GA1.1.1341278248.1705148826&semt=sph"
+    },
+    {
+        "id":11,
+        "name":"Chudi",
+        "title":"fashion is quite a phenomenon.",
+        "price":1499,
+        "category":"women",
+        "image":"https://img.freepik.com/free-photo/young-woman-beautiful-red-dress_1303-17506.jpg?ga=GA1.1.1341278248.1705148826&semt=sph"
+    },
+    {
+        "id":12,
+        "name":"Hoddie",
+        "title":"fashion is quite a phenomenon.",
+        "price":1000,
+        "category":"women",
+        "image":"https://img.freepik.com/free-photo/fashionable-young-caucasian-brunette-hoodie-jeans-likes-listen-music-with-headphones-purple-background-technological-device-concept_197531-31649.jpg?ga=GA1.1.1341278248.1705148826&semt=sph"
+    },
+    {
+        "id":13,
+        "name":"Denim jeans",
+        "title":"fashion is quite a phenomenon.",
+        "price":1000,
+        "category":"pant",
+        "image":"https://img.freepik.com/free-photo/fast-fashion-vs-slow-sustainable-fashion_23-2149133969.jpg?ga=GA1.1.1341278248.1705148826&semt=sph"
+    },
+    {
+        "id":14,
+        "name":"Hoddie",
+        "title":"fashion is quite a phenomenon.",
+        "price":1999,
+        "category":"women",
+        "image":"https://img.freepik.com/free-photo/full-length-smiling-young-caucasian-brunette-woman-wears-sweater-jeans-glasses-looking-away-purple-background-leisure-lifestyle-concept_197531-32515.jpg?ga=GA1.1.1341278248.1705148826&semt=sph"
+    }, 
+    {
+        "id":15,
+        "name":"Shirt",
+        "title":"fashion is quite a phenomenon.",
+        "price":499,
+        "category":"shirt",
+        "image":"https://img.freepik.com/free-photo/business-casual-shirt-white-closeup-outdoor-photoshoot_53876-119744.jpg?ga=GA1.1.1341278248.1705148826&semt=sph"
+    }, 
+    {
+        "id":16,
+        "name":"Shirt pant",
+        "title":"fashion is quite a phenomenon.",
+        "price":1499,
+        "category":"men",
+        "image":"https://img.freepik.com/free-photo/full-length-portrait-handsome-serious-man_171337-17388.jpg?ga=GA1.1.1341278248.1705148826&semt=sph"
+    }
+]
