@@ -9,7 +9,7 @@ import Cards from "./Cards";
 import axios from "axios";
 import { useState, useEffect } from "react";
 
-function Items() {
+function  Items() {
 
   const [shop, setShop]=useState([])
   useEffect(()=>{
@@ -27,11 +27,16 @@ function Items() {
 
   var settings = {
     dots: true,
-    infinite: false,
-    speed: 500,
+    infinite: true,
+    speed: 1000,
     slidesToShow: 4,
     slidesToScroll: 4,
     initialSlide: 0,
+    autoplaySpeed:6000,
+    autoplay:true,
+    cssEase:'ease-in-out',
+    pauseOnHover:false,
+    pauseOnFocus:true,
     responsive: [
       {
         breakpoint: 1024,
@@ -40,6 +45,9 @@ function Items() {
           slidesToScroll: 3,
           infinite: true,
           dots: true,
+          autoplay:true,
+          autoplaySpeed:4000,
+          cssEase:'ease-in-out',
         },
       },
       {
@@ -48,6 +56,9 @@ function Items() {
           slidesToShow: 2,
           slidesToScroll: 2,
           initialSlide: 2,
+          autoplay:true,
+          autoplaySpeed:4000,
+          cssEase:'ease-in-out',
         },
       },
       {
@@ -55,6 +66,9 @@ function Items() {
         settings: {
           slidesToShow: 1,
           slidesToScroll: 1,
+          autoplay:true,
+          autoplaySpeed:4000,
+          cssEase:'ease-in-out',
         },
       },
     ],
@@ -64,18 +78,15 @@ function Items() {
   // console.log(filterData);
   return (
     <>
-      <div className="max-w-screen-2xl container mx-auto md:px-20 px-4 mt-10">
+      <div className="max-w-screen-2xl container mx-auto md:px-20 px-4 mt-10 ">
         <div>
-          <h1 className="text-xl font-semibold pb-2">new trending fashions</h1>
+          <h1 className="text-xl font-semibold pb-2">Find your meal Here</h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet
-            iure ex perferendis quas minima aspernatur error, maxime fuga
-            aliquid assumenda soluta quidem consequuntur? Nobis provident
-            doloribus neque veniam, maiores quaerat.
+          Finding the perfect meal for any occasion is now easier than ever with MealSearch. Whether you're craving a quick lunch, planning a romantic dinner, or searching for a new recipe to try at home, MealSearch is your ultimate culinary companion.
           </p>
         </div>
 
-        <div className="slider-container">
+        <div className="" >
           <Slider {...settings}>
             {shop.map((item)=>(
               <Cards item={item} key={item.id}/>

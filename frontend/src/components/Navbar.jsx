@@ -27,7 +27,7 @@ function Navbar() {
         <a href="/">Home</a>
       </li>
       <li>
-        <a href="/fashion">Fashion</a>
+        <a href="/food">Food</a>
       </li>
       <li>
         <a href="/contact">Contact</a>
@@ -72,8 +72,8 @@ function Navbar() {
               {navItems}
             </ul>
           </div>
-          <a href="/" className="text-3xl font-extrabold cursor-pointer">
-            Fashion World
+          <a href="/" className="text-3xl font-extrabold cursor-pointer bg-black text-white bg-gradient-to-r from-transparent via-teal-400 to-transparent rounded-lg p-3 hover:to-transparent hover:scale-105 shadow-green-500" style={{backgroundImage: "linear-gradient(120deg, transparent, #00456c, transparent ",transform:"translateX(-100)",transition:"0.6s",position:"absolute"}}>
+           Mother's cafe
           </a>
         </div>
         <div className="navbar-end space-x-3">

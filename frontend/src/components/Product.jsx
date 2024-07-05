@@ -29,10 +29,7 @@ useEffect(()=>{
             <span className="text-pink-500"> Here : )</span>
           </h1>
           <p className="mt-12 justify-normal">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto,
-            blanditiis quibusdam. Saepe at eveniet facilis aliquam ratione
-            dignissimos alias optio accusantium, mollitia, dolore accusamus! Ea
-            excepturi qui beatae quasi sint?
+          At Mother's cafe, we believe in crafting more than just great coffee and delicious food; we create experiences. Nestled in the heart of Banglore, our cafe offers a warm and inviting atmosphere where you can relax, socialize, or catch up on work while enjoying the finest beverages and treats.
           </p>
           <Link to="/">
             <button className="bg-pink-400 text-white px-4 py-2 rounded-lg mt-6 hover:bg-pink-500 duration-300">

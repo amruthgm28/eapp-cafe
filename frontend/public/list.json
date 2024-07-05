@@ -1,130 +1,130 @@
 [
     {
         "id":1,
-        "name":"Denim Shirt",
-        "title":"fashion is quite a phenomenon. ",
-        "price":699,
-        "category":"shirt",
-        "image":"https://img.freepik.com/free-photo/portrait-handsome-smiling-stylish-young-man-model-wearing-jeans-clothes-sunglasses-fashion-man_158538-5023.jpg?ga=GA1.1.1341278248.1705148826&semt=sph"
+        "name": "Kulcha",
+        "title":"A roti with some ingridients.",
+        "price":35,
+        "category":"Tandoori",
+        "image":"https://img.freepik.com/free-photo/delicious-assortment-traditional-roti_23-2149033995.jpg?t=st=1720084640~exp=1720088240~hmac=6bb13dd1e9702cd37ff54dfa91c423324ff04fd5d09c2ec022163fb497f5b85e&w=360"
     },
     {
         "id":2,
-        "name":"Kids cloth",
-        "title":"fashion is quite a phenomenon.",
-        "price":999,
-        "category":"Kids",
-        "image":"https://img.freepik.com/premium-photo/fashion-boy-girl-stylish-clothes-colored-wall-autumn-bright-clothes-children-child-posing-colored-purple-pink-wall_86390-4442.jpg?ga=GA1.1.1341278248.1705148826&semt=sph"
+        "name":"chapathi",
+        "title":"A tasty and Healthy tandoor.",
+        "price":25,
+        "category":"Tandoori",
+        "image":"https://img.freepik.com/free-photo/delicious-composition-nutritious-roti_23-2149033957.jpg?t=st=1720084882~exp=1720088482~hmac=9d70d8976ab5482b5cf5038638c151cb76e7680a6d2b580571334a1c2f89ea9d&w=996"
     },
     {
         "id":3,
-        "name":"T-shirt",
-        "title":"fashion is quite a phenomenon.",
-        "price":399,
-        "category":"Tshirt",
-        "image":"https://img.freepik.com/free-photo/pink-sweater-front_125540-746.jpg?ga=GA1.1.1341278248.1705148826&semt=sph"
+        "name":"Butter Kulcha",
+        "title":"A tasty and smooth tandoor.",
+        "price":45,
+        "category":"Tandoori",
+        "image":"https://img.freepik.com/free-photo/pakistani-food-wooden-board-flat-lay_23-2148825095.jpg?ga=GA1.1.1309892207.1720078656&semt=ais_user"
     },
     {
         "id":4,
-        "name":"Skirt",
+        "name":"Butter Non",
         "title":"fashion is quite a phenomenon.",
-        "price":1299,
-        "category":"Women",
-        "image":"https://img.freepik.com/free-photo/still-life-spring-wardrobe-switch_23-2150478964.jpg?ga=GA1.1.1341278248.1705148826&semt=sph"
+        "price":50,
+        "category":"Tandoori",
+        "image":"https://img.freepik.com/free-photo/pakistani-food-cloth-view_23-2148825099.jpg?t=st=1720085277~exp=1720088877~hmac=8546a1f1617475bd345af87101eab0c31fbbde460854f20b41640c6c717e336b&w=996"
     },
     {
         "id":5,
-        "name":"T-shirts",
-        "title":"fashion is quite a phenomenon.",
-        "price": 999,
-        "category":"Tshirt",
-        "image":"https://img.freepik.com/free-photo/shirt-mockup-concept-with-plain-clothing_23-2149448750.jpg?ga=GA1.1.1341278248.1705148826&semt=sph"
+        "name":"Chicken Hydrabadi",
+        "title":"A spicy gravy for tandoors.",
+        "price": 199,
+        "category":"Gravy",
+        "image":"https://img.freepik.com/free-photo/high-angle-chicken-meal_23-2148825122.jpg?ga=GA1.1.1309892207.1720078656&semt=ais_user"
     },
     {
         "id":6,
-        "name":"T-shirt",
-        "title":"fashion is quite a phenomenon.",
-        "price":1499,
-        "category":"Women",
-        "image":"https://img.freepik.com/premium-photo/woman-gray-pants-blouse-bicolor-accessories-boots-white-background-brown-hair-studio-shot_481253-1215.jpg?ga=GA1.1.1341278248.1705148826&semt=sph"
+        "name":"chicken  kollapuri",
+        "title":"Best gravy for spicy lovers.",
+        "price":219,
+        "category":"Gravy",
+        "image":"https://img.freepik.com/premium-photo/plate-food-that-has-name-company-it_862330-6286.jpg?w=740"
     },
     {
         "id":7,
-        "name":"Blazer",
-        "title":"fashion is quite a phenomenon.",
-        "price":1999,
-        "category":"Blazer",
-        "image":"https://img.freepik.com/premium-photo/coat-grey-background_123335-17.jpg?ga=GA1.1.1341278248.1705148826&semt=sph"
+        "name":"butter chicken masala",
+        "title":"A gravy with some sweet n spice.",
+        "price":209,
+        "category":"Gravy",
+        "image":"https://img.freepik.com/free-photo/pre-prepared-food-showcasing-ready-eat-delicious-meals-go_23-2151246089.jpg?ga=GA1.1.1309892207.1720078656&semt=ais_user"
     },
     {
         "id":8,
-        "name":"Jeans",
-        "title":"fashion is quite a phenomenon.",
-        "price":1000,
-        "category":"pant",
-        "image":"https://img.freepik.com/free-photo/portrait-female-legs-jeans_171337-11954.jpg?ga=GA1.1.1341278248.1705148826&semt=sph"
+        "name":"chicken kadai",
+        "title":"chicken with fully toasted gravy.",
+        "price":239,
+        "category":"Gravy",
+        "image":"https://img.freepik.com/free-photo/pre-prepared-food-showcasing-ready-eat-delicious-meals-go_23-2151246080.jpg?ga=GA1.1.1309892207.1720078656&semt=ais_user"
     },
     {
         "id":9,
-        "name":"T-shirt",
-        "title":"fashion is quite a phenomenon.",
-        "price":799,
-        "category":"Tshirt",
-        "image":"https://img.freepik.com/free-photo/shirt-mockup-concept-with-plain-clothing_23-2149448748.jpg?ga=GA1.1.1341278248.1705148826&semt=sph"
+        "name":"chicken 65",
+        "title":"perfect starter for chicken lovers.",
+        "price":199,
+        "category":"Starters",
+        "image":"https://img.freepik.com/premium-photo/fried-chicken-with-sauce-herbs_636537-207492.jpg?w=996"
     },
     {
         "id":10,
-        "name":"Chudi",
-        "title":"fashion is quite a phenomenon.",
-        "price":1000,
-        "category":"women",
-        "image":"https://img.freepik.com/premium-photo/women-beautiful-fashion-dress_953724-4768.jpg?ga=GA1.1.1341278248.1705148826&semt=sph"
+        "name":"chicken tandoori",
+        "title":"perfect food for tandoori lovers.",
+        "price":299,
+        "category":"Starters",
+        "image":"https://img.freepik.com/free-photo/side-view-baked-chicken-with-cucumber-lemon-seasoning-bread-table_141793-4757.jpg?ga=GA1.1.1309892207.1720078656&semt=ais_user"
     },
     {
         "id":11,
-        "name":"Chudi",
-        "title":"fashion is quite a phenomenon.",
-        "price":1499,
-        "category":"women",
-        "image":"https://img.freepik.com/free-photo/young-woman-beautiful-red-dress_1303-17506.jpg?ga=GA1.1.1341278248.1705148826&semt=sph"
+        "name":"chicken pepper dry",
+        "title":"A spicy pepper dry of chicken.",
+        "price":249,
+        "category":"Starters",
+        "image":"https://img.freepik.com/free-photo/top-view-fried-chicken-parts-with-sauce-copy-space_23-2148646655.jpg?t=st=1720091710~exp=1720095310~hmac=fc7c9ac9ef53e22c3171d169e496ec510ede7ae912eb78895715610bcd4aa71e&w=1380"
     },
     {
         "id":12,
-        "name":"Hoddie",
-        "title":"fashion is quite a phenomenon.",
-        "price":1000,
-        "category":"women",
-        "image":"https://img.freepik.com/free-photo/fashionable-young-caucasian-brunette-hoodie-jeans-likes-listen-music-with-headphones-purple-background-technological-device-concept_197531-31649.jpg?ga=GA1.1.1341278248.1705148826&semt=sph"
+        "name":"chicken Lollipop",
+        "title":"A perfect spicy and juicy starter.",
+        "price":250,
+        "category":"Starters",
+        "image":"https://img.freepik.com/premium-photo/buffalo-wing-american-cuisine-is-unbreaded-chicken-wing_891336-11707.jpg?w=1380"
     },
     {
         "id":13,
-        "name":"Denim jeans",
-        "title":"fashion is quite a phenomenon.",
-        "price":1000,
-        "category":"pant",
-        "image":"https://img.freepik.com/free-photo/fast-fashion-vs-slow-sustainable-fashion_23-2149133969.jpg?ga=GA1.1.1341278248.1705148826&semt=sph"
+        "name":"chicken Tandoor biriyani",
+        "title":"A Biriyani with leg piece.",
+        "price":299,
+        "category":"Biriyani",
+        "image":"https://img.freepik.com/premium-photo/bowl-rice-with-chicken-rice-bowl-rice_1028566-42186.jpg?ga=GA1.2.1309892207.1720078656&semt=ais_user"
     },
     {
         "id":14,
-        "name":"Hoddie",
-        "title":"fashion is quite a phenomenon.",
-        "price":1999,
-        "category":"women",
-        "image":"https://img.freepik.com/free-photo/full-length-smiling-young-caucasian-brunette-woman-wears-sweater-jeans-glasses-looking-away-purple-background-leisure-lifestyle-concept_197531-32515.jpg?ga=GA1.1.1341278248.1705148826&semt=sph"
-    }, 
+        "name":"chicken biriyani",
+        "title":"Best biriyani for chicken lovers.",
+        "price":219,
+        "category":"Biriyani",
+        "image":"https://img.freepik.com/premium-photo/bowl-rice-with-chicken-rice_1028566-43214.jpg?ga=GA1.2.1309892207.1720078656&semt=ais_user "
+    },
     {
         "id":15,
-        "name":"Shirt",
-        "title":"fashion is quite a phenomenon.",
-        "price":499,
-        "category":"shirt",
-        "image":"https://img.freepik.com/free-photo/business-casual-shirt-white-closeup-outdoor-photoshoot_53876-119744.jpg?ga=GA1.1.1341278248.1705148826&semt=sph"
+        "name":"mutton biriyani",
+        "title":"Biriyani with a mutton is heaven.",
+        "price":349,
+        "category":"Biriyani",
+        "image":"https://img.freepik.com/premium-photo/biryani-feast_1264082-3116.jpg?w=900"
     }, 
     {
         "id":16,
-        "name":"Shirt pant",
-        "title":"fashion is quite a phenomenon.",
-        "price":1499,
-        "category":"men",
-        "image":"https://img.freepik.com/free-photo/full-length-portrait-handsome-serious-man_171337-17388.jpg?ga=GA1.1.1341278248.1705148826&semt=sph"
+        "name":"Egg Biriyani",
+        "title":"A perfect egg biriyani",
+        "price":199,
+        "category":"Biriyani",
+        "image":"https://img.freepik.com/premium-photo/egg-biryani-kerala-style-biriyani-arranged-earthenware-lined-with-banana-leaf_527904-2465.jpg?ga=GA1.2.1309892207.1720078656&semt=ais_user"
     }
 ]

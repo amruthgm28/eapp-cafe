@@ -5,7 +5,7 @@ function Footer() {
    <>
    <hr />
    <footer className="footer footer-center text-base-content rounded p-10">
-    <a href='/' className='text-3xl font-extrabold hover:underline hover:duration-200'>Fashion World</a>
+    <a href='/' className='text-3xl font-extrabold hover:underline hover:duration-200'>Food World</a>
   <nav className="grid grid-flow-col gap-4">
     <a href='/about' className="link link-hover">About us</a>
     <a href='/contact' className="link link-hover">Contact</a>
@@ -50,13 +50,13 @@ function Footer() {
     </div>
   </nav>
   <aside>
-    <p>Copyright © ${new Date().getFullYear()} - All right reserved by Fashion World Ltd</p>
+    <p>Copyright © ${new Date().getFullYear()} - All right reserved by Mother's cafe Ltd</p>
   </aside>
  
 </footer>
-<div className='pr-10 -mt-8 pb-5'>
+<div className='pr-10 -mt-8 pb-5 float-end'>
     <span className='text-sm float-right '>Developed by:</span><br />
-    <a href='https://github.com/Sudeepayadav' className='text-xl uppercase font-bold float-right font-sans'>Sudeepa M</a>
+    <a href='https://github.com/amruthgm28' className='text-xl uppercase font-bold float-right font-sans '> <span className='font-semibold float-right'>Amruth GM</span></a>
   </div>
    </>
   )
